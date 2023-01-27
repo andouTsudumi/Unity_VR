@@ -73,3 +73,4 @@ crashlytics-build.properties
 
 # Personal Additions.
 /Assets/Scenes
+/Assets/Scenes.meta
